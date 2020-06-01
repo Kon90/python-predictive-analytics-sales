@@ -2,4 +2,4 @@
 Predicting monthly sales with Python using LSTM method
 
 
-![](images/
+![](images/Forecast%20graph.png)
