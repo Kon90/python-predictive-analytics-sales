@@ -5,3 +5,5 @@ LSTM networks demonstrated success in natural language processing as well as in 
 
 
 ![](images/Forecast%20graph.png)
+
+https://nbviewer.jupyter.org/github/Kon90/python-predictive-analytics-sales/blob/master/Sales%20forecast%20using%20LSTM%20method.ipynb
